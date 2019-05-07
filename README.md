@@ -16,7 +16,7 @@ npm install boone-cli -g
 boone list
 ```
 
-![boone-list](https://github.com/MrElvin/boone-cli/tree/master/assets/boone-list.png)
+![boone-list](https://github.com/MrElvin/boone-cli/blob/master/assets/boone-list.png)
 
 ### Init Project
 
@@ -24,7 +24,7 @@ boone list
 boone init
 ```
 
-![boone-init](https://github.com/MrElvin/boone-cli/tree/master/assets/boone-init.png)
+![boone-init](https://github.com/MrElvin/boone-cli/blob/master/assets/boone-init.png)
 
 ## Tip
 
